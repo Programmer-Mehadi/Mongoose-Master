@@ -1,0 +1,14 @@
+{
+  "id": "12",
+  "role": "student",
+  "password": "12345678",
+  "name": {
+    "firstName": "Muhammad",
+    "lastName": "Mehadi"
+  },
+  "gender": "male",
+  "contactNo": "01724322401",
+  "emergencyContactNo": "01771533172",
+  "presentAddress": "Lalbagh,Dhaka",
+  "permanentAddress": "Jhalakati,Barishal"
+}
